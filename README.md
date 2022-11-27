@@ -11,5 +11,5 @@
     <li>Run php artisan key:generate</li>
     <li>Run php artisan migrate</li>
     <li>Run php artisan jwt:secret</li>
-     <li>Postman API document: https://documenter.getpostman.com/view/12252261/TzedhQYN</li>
+     <li>Postman API document: https://documenter.getpostman.com/view/12252261/2s8YswQWp6</li>
 </ul>
